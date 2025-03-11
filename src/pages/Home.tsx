@@ -18,7 +18,7 @@ const Home = (props: Props) => {
   const dispatch = useAppDispatch();
   const addToCartProduct = (data: any) => {
       dispatch(addToCart(data))
-      message.success("Thêm vào giỏ hàng thành công")
+      message.success("Thêm vào giỏ hàng hoàn thành")
   }
   
   return (
