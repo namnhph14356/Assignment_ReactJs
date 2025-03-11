@@ -14,7 +14,7 @@ const Profile = (props: Props) => {
                     <span className="text-sm text-gray-400">
                         <i className="fa-solid fa-chevron-right" />
                     </span>
-                    <p className="text-gray-600 font-medium">Profile</p>
+                    <p className="text-gray-600 font-medium">Hồ sơ</p>
                 </div>
                 {/* ./breadcrumb */}
                 {/* wrapper */}
