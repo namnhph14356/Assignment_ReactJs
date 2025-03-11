@@ -42,7 +42,7 @@ const SignUp = (props: Props) => {
                 image: image
             })
             reset()
-            message.success("Đăng ký thành công")
+            message.success("Đăng ký thành công!")
             setTimeout(() => {
                 navigate("/signin")
             }, 2000)
