@@ -14,7 +14,7 @@ const Account = (props: Props) => {
                     <span className="text-sm text-gray-400">
                         <i className="fa-solid fa-chevron-right" />
                     </span>
-                    <p className="text-gray-600 font-medium">Account</p>
+                    <p className="text-gray-600 font-medium">Tài khoản</p>
                 </div>
                 {/* ./breadcrumb */}
                 {/* account wrapper */}
